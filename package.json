@@ -1,0 +1,21 @@
+{
+  "name": "normalize-number",
+  "version": "1.0.0",
+  "description": "Normalize numbers to [0, 1].",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/superandrew213/normalize-number.git"
+  },
+  "keywords": [
+    "normalize",
+    "normalise",
+    "normalize numbers",
+    "normalise numbers"
+  ],
+  "author": "Andrew Shini <email@andrewshini.com> (http://andrewshini.com)",
+  "license": "MIT"
+}
