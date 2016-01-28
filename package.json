@@ -1,6 +1,6 @@
 {
   "name": "normalize-number",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Normalize numbers to [0, 1].",
   "main": "index.js",
   "scripts": {
